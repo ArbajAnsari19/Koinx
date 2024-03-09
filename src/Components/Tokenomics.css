@@ -1,0 +1,61 @@
+.contianer-token{
+    width: 90%;
+    height: 80vh;
+    margin-left:30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    font-family: "Poppins","Sans-serif";
+    box-shadow: 5px 4px 6px -2px rgba(0, 0, 0, 0.217);
+}
+.heading1{
+    padding-top: 20px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.heading2{
+   font-size: 18px;
+   font-weight: 300;
+   margin-left: 35px;
+   margin-top: 50px;
+}
+.piechart{
+     width: 380px;
+     height: 300px;
+     background-color: black;
+     border-radius: 100%;
+     mix-blend-mode: multiply;
+}
+.p1{
+    margin-left: 30px;
+    font-size: 16px;
+    margin-top: 155px;
+}
+.dot1{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: blue;
+    margin-left: 335px;
+    margin-top: -170px;
+}
+.dot2{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: orange;
+    margin-left: 335px;
+    margin-top: 15px;
+}
+#percent1{
+    width: fit-content;
+    height: 20px;
+    margin-left: 362px;
+    margin-top: -55px;
+}
+#percent2 {
+    width: fit-content;
+    height: 20px;
+    margin-left: 362px;
+    margin-top: 15px;
+} 

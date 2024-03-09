@@ -1,0 +1,38 @@
+.youmay{
+    width: 100vw;
+    height: 20vh;
+    background-color: rgba(255, 255, 255, 0.743);
+    font-family: "Poppins","Sans-serif";
+}
+.swip{
+    padding: 0px;
+    border:1px solid grey;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.titleu{
+    font-size: 25px;
+    margin: 30px;
+}
+.main-div-car{
+    display: flex;
+    padding:20px;
+    gap: 10px;
+}
+.img-logo-car{
+    border-radius: 100%;
+}
+.colr{
+    padding: 4px 18px;
+    background-color: rgba(106, 241, 129, 0.443);
+    border-radius: 12px;
+}
+.prc-m{
+    margin-top: -18px;
+    font-size: 25px;
+    margin-left: 15px;
+}
+.img-spark{
+    width: 160px;
+    margin-left: 50px;
+}

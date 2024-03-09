@@ -1,0 +1,40 @@
+.gr{
+    display: flex;
+    width: 91%;
+    height: 8vh;
+    padding-bottom: 20px;
+    margin-left:30px;
+    border-radius: 10px;
+    background-color: white;
+    font-family: "Poppins","Sans-serif";
+}
+.img-btc{
+    padding-left: 20px;
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+}
+.h1btc{
+    padding-left: 15px;
+}
+.pbtc{
+    margin-top: 32px;
+    padding-left: 10px;
+    color: rgba(84, 91, 91, 0.597);
+}
+.divbtc{
+    margin-top: 30px;
+    height: 8px;
+    width: 50px;
+    padding: 10px;
+    margin-left: 50px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.706);
+}
+
+.pbtc2{
+    width: 50px;
+    margin-top: 34px;
+    margin-left: 20px;
+    width: 100%;
+}

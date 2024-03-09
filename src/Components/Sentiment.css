@@ -1,0 +1,86 @@
+.Sentiment{
+    width: 90%;
+    height: 80vh;
+    margin-top: 20px;
+    margin-left:30px;
+    border-radius: 10px;
+    background-color: #fff;
+    font-family: "Poppins","Sans-serif";
+    box-shadow: 5px 4px 6px -2px rgba(0, 0, 0, 0.217);
+}
+.sp{
+    font-size: 30px;
+    font-weight: 500;
+    padding: 10px 30px;
+}
+.spt{
+    font-size: 20px;
+    font-weight: 500;
+    padding:0 30px;
+}
+.swiper-card{
+    display: flex;
+    width: 100%;
+    height: 40%;
+    margin-left: 60px;
+    background-color: #e8f4fd;
+    border-radius: 10px;
+    padding: 20px;
+}
+.ri-file-list-3-line{
+    font-size: 50px;
+    margin-top: 60px;
+    margin-right: 20px;
+    border-radius: 100%;
+}
+.circle{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 40px;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    background-color: #ebf9f4;
+    color: rgb(39, 117, 39);
+}
+.circp{
+    margin-top: 45px;
+}
+.side-conti{
+    display: flex;
+    flex-direction: row;
+}
+.est{
+    font-size: 20px;
+    margin-top: 0px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.est1{
+    gap: 20px;
+    margin-top: 30px;
+    width: 100%;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.line-hor1{
+    margin-top: 35px;
+    height: 4px;
+    width: 76%;
+    background-color: rgb(122, 231, 122);
+}
+.line-hor2{
+    margin-top: 35px;
+    height: 4px;
+    width: 8%;
+    background-color: rgb(193, 193, 193);
+}
+.line-hor3{
+    margin-top: 35px;
+    height: 4px;
+    width: 16%;
+    background-color: rgb(227, 67, 67);
+}
