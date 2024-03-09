@@ -41,3 +41,23 @@
  .teamp{
     padding-left: 30px;
  }
+
+ @media screen and (max-width: 768px) {
+   .team-cont{
+      width: 95%;
+      height: 120vh;
+      margin-left:10px;
+
+}
+   .rightcard{
+      font-size: 10px;
+   }
+   .leftcard{
+      margin: 20px;
+      margin-left: 0;
+      p{
+         margin-top: -20px;
+         margin-left: 30px;
+      }
+   }
+ }

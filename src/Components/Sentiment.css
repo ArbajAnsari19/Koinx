@@ -84,3 +84,32 @@
     width: 16%;
     background-color: rgb(227, 67, 67);
 }
+
+@media screen and (max-width: 768px) {
+    .swiper-card{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        height: 180px; 
+        font-size: 10px;
+
+    }
+    .ri-file-list-3-line{
+        margin-top: 0;
+        margin-left: 60px;
+        font-size: 30px;
+    }
+    .swiperpara{
+        font-size: 10px;
+        width: 100%;
+    }
+    .Sentiment{
+        height: 80vh;
+        width: 100%;
+        margin-left: 0;
+    }
+    .side-conti{
+        margin-left: -40px;
+    }
+
+  }
