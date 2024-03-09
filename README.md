@@ -1,4 +1,4 @@
-# KoinX Frontend Intern Assignment
+# KoinX 
 
 ## Project Overview
 
