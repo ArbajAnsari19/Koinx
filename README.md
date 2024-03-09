@@ -6,7 +6,7 @@ This repository contains the code for the KoinX Frontend Intern Assignment, comp
 
 ## Deployed Project
 
-Explore the live project [here]([insert-your-deployed-link-here](https://jolly-sopapillas-6c18a2.netlify.app/)).
+Explore the live project [here](https://jolly-sopapillas-6c18a2.netlify.app/).
 ## Figma Design
 
 [Figma Design](https://www.figma.com/file/VRj5MqVPoQdj5N7AwmYc98/KoinX---Frontend-Intern-Assignment?type=design&node-id=0-1&mode=design&t=x8gdUiF5gA3sjRd3-0)
