@@ -26,8 +26,8 @@ Explore the live project [here](https://jolly-sopapillas-6c18a2.netlify.app/).
 
 ## How to Run the Project Locally
 
-1. Clone the repository: `git clone [repository_link]`
-2. Navigate to the project folder: `cd koinx-frontend-intern-assignment`
+1. Clone the repository: `git clone https://github.com/ArbajAnsari19/Koinx.git`
+2. Navigate to the project folder: `cd koinx`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm start`
 5. Open your browser and go to `http://localhost:3000` to view the project.
